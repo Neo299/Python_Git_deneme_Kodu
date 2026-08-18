@@ -6,3 +6,5 @@ def karsilama_mesaji(kullanici_adi):
 if __name__ == "__main__":
     kullanici = "Ahmet"
     print(karsilama_mesaji(kullanici))
+def durum_bilgisi():
+    return "Versiyon 1.1: Yeni özellik eklendi."
