@@ -8,3 +8,4 @@ if __name__ == "__main__":
     print(karsilama_mesaji(kullanici))
 def durum_bilgisi():
     return "Versiyon 1.1: Yeni özellik eklendi."
+print durum_bilgisi()
